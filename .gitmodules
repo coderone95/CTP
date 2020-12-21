@@ -1,0 +1,6 @@
+[submodule "test-service"]
+	path = test-service
+	url = https://github.com/coderone95/test-service.git
+[submodule "user-microservice"]
+	path = user-microservice
+	url = https://github.com/coderone95/user-microservice.git
